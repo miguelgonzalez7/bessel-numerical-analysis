@@ -1,0 +1,15 @@
+# MATLAB autosaves and editor files
+*.asv
+*.m~
+*.autosave
+
+# Generated figures and exports
+*.fig
+*.png
+*.jpg
+*.pdf
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
